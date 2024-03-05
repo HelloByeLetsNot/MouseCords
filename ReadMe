@@ -1,0 +1,31 @@
+# Mouse Coordinates Tracker
+
+Mouse Coordinates Tracker is a simple Python program that displays the current position of the mouse cursor on the screen.
+
+## What it does
+
+This program continuously monitors the position of the mouse cursor on the screen and displays its coordinates in real-time. It provides a convenient way to track the mouse's location, which can be useful for various purposes such as software development, graphic design, and user interface testing.
+
+## How to use
+
+1. Run the program by executing the `mouse_tracker.py` script.
+
+2. Press Ctrl + Alt keys simultaneously to capture the mouse coordinates.
+
+3. The coordinates will be displayed in a graphical user interface (GUI) window.
+
+4. Move the mouse cursor around the screen to see the coordinates update in real-time.
+
+5. Press the Esc key to exit the program.
+
+## Customization
+
+The program can be easily customized to fit your specific needs. You can modify the code to perform additional actions when certain conditions are met, such as saving the coordinates to a file or triggering other events based on the mouse position.
+
+## Contributing
+
+Contributions to this project are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request on GitHub.
+
+## License
+
+This program is free to use, modify, and distribute under the MIT License. See the LICENSE file for more details.
